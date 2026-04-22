@@ -22,9 +22,10 @@ A simple weather application built using HTML, CSS, and JavaScript that fetches 
 
 ---
 
-## 📂 Project Structure
+## 🚀 Project Structure
 
-- in file 
+
+Live Demo: https://dacchu5x.github.io/Weather-App/
 
 ---
 
